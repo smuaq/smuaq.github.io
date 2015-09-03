@@ -7,7 +7,8 @@
 // jQuery for page scrolling feature - requires jQuery Easing plugin
 $(function() {
 
-    var images = ['image1.jpg', 'image2.jpg', 'image3.jpg', 'image4.jpg'];
+    //var images = ['image1.jpg', 'image2.jpg', 'image3.jpg', 'image4.jpg'];
+    var images = ['image5.jpg'];
     $('header').css({'background-image': 'url(./img/' + images[Math.floor(Math.random() *      images.length)] + ')'});
 
     $(".owl-carousel").owlCarousel({
