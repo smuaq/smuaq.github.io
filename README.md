@@ -15,4 +15,4 @@ Created by and is maintained by Usman Qadri, software engineer & entrepreneur.
 
 ## Copyright and License
 
-Copyright 2015 KozmoTech. Code released under the [Apache 2.0](https://github.com/IronSummitMedia/startbootstrap-agency/blob/gh-pages/LICENSE) license.
+Copyright 2020 KozmoTech. Code released under the [Apache 2.0](https://github.com/IronSummitMedia/startbootstrap-agency/blob/gh-pages/LICENSE) license.
